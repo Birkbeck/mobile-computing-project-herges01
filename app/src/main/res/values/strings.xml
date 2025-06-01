@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="menuText1">Breakfast</string>
+    <string name="menuText2">Brunch</string>
+    <string name="menuText3">Lunch</string>
+    <string name="menuText4">Dinner</string>
+    <string name="menuText5">Dessert</string>
+    <string name="menuText6">Other</string>
+    <string name="avatar">avatar</string>
+    <string name="extended_fab_label">+ Add recipe</string>
+    <string name="recipe_list">Recipe List</string>
+
+
+</resources>

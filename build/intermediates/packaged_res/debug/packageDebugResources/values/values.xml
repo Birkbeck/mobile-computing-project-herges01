@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#1E9700</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">My Application</string>
+    <string name="avatar">avatar</string>
+    <string name="menuText1">Breakfast</string>
+    <string name="menuText2">Brunch</string>
+    <string name="menuText3">Lunch</string>
+    <string name="menuText4">Dinner</string>
+    <string name="menuText5">Dessert</string>
+    <string name="menuText6">Other</string>
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/>
+</resources>
