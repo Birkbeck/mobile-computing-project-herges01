@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyApplication" >
         <activity
+            android:name="co.uk.bbk.myapplication.RecipeAdditionPage"
+            android:exported="false" />
+        <activity
             android:name="co.uk.bbk.myapplication.RecipePageActivity"
             android:exported="true" />
         <activity

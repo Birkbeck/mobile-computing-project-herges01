@@ -12,15 +12,15 @@
         android:id="@+id/imageButton1"
         android:layout_width="150dp"
         android:layout_height="150dp"
+        android:layout_marginTop="100dp"
         android:background="@color/white"
         android:contentDescription="@string/avatar"
         android:scaleType="fitCenter"
         android:src="@drawable/breakfast"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toStartOf="@id/imageButton2"
         app:layout_constraintHorizontal_chainStyle="spread"
-        android:layout_marginTop="100dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageButton
         android:id="@+id/imageButton2"
@@ -30,43 +30,43 @@
         android:contentDescription="@string/avatar"
         android:scaleType="fitCenter"
         android:src="@drawable/brunch"
-        app:layout_constraintTop_toTopOf="@id/imageButton1"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@id/imageButton1"
-        app:layout_constraintEnd_toEndOf="parent" />
+        app:layout_constraintTop_toTopOf="@id/imageButton1" />
 
     <TextView
         android:id="@+id/menuText1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
         android:text="@string/menuText1"
-        app:layout_constraintTop_toBottomOf="@id/imageButton1"
-        app:layout_constraintStart_toStartOf="@id/imageButton1"
         app:layout_constraintEnd_toEndOf="@id/imageButton1"
-        android:layout_marginTop="8dp" />
+        app:layout_constraintStart_toStartOf="@id/imageButton1"
+        app:layout_constraintTop_toBottomOf="@id/imageButton1" />
 
     <TextView
         android:id="@+id/menuText2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
         android:text="@string/menuText2"
-        app:layout_constraintTop_toBottomOf="@id/imageButton2"
-        app:layout_constraintStart_toStartOf="@id/imageButton2"
         app:layout_constraintEnd_toEndOf="@id/imageButton2"
-        android:layout_marginTop="8dp" />
+        app:layout_constraintStart_toStartOf="@id/imageButton2"
+        app:layout_constraintTop_toBottomOf="@id/imageButton2" />
 
 
     <ImageButton
         android:id="@+id/imageButton3"
         android:layout_width="150dp"
         android:layout_height="150dp"
+        android:layout_marginTop="16dp"
         android:background="@color/white"
         android:contentDescription="@string/avatar"
         android:scaleType="fitCenter"
         android:src="@drawable/lunch"
-        app:layout_constraintTop_toBottomOf="@id/menuText1"
-        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toStartOf="@id/imageButton4"
-        android:layout_marginTop="16dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/menuText1" />
 
     <ImageButton
         android:id="@+id/imageButton4"
@@ -76,43 +76,43 @@
         android:contentDescription="@string/avatar"
         android:scaleType="fitCenter"
         android:src="@drawable/dinner"
-        app:layout_constraintTop_toTopOf="@id/imageButton3"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@id/imageButton3"
-        app:layout_constraintEnd_toEndOf="parent" />
+        app:layout_constraintTop_toTopOf="@id/imageButton3" />
 
     <TextView
         android:id="@+id/menuText3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
         android:text="@string/menuText3"
-        app:layout_constraintTop_toBottomOf="@id/imageButton3"
-        app:layout_constraintStart_toStartOf="@id/imageButton3"
         app:layout_constraintEnd_toEndOf="@id/imageButton3"
-        android:layout_marginTop="8dp" />
+        app:layout_constraintStart_toStartOf="@id/imageButton3"
+        app:layout_constraintTop_toBottomOf="@id/imageButton3" />
 
     <TextView
         android:id="@+id/menuText4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
         android:text="@string/menuText4"
-        app:layout_constraintTop_toBottomOf="@id/imageButton4"
-        app:layout_constraintStart_toStartOf="@id/imageButton4"
         app:layout_constraintEnd_toEndOf="@id/imageButton4"
-        android:layout_marginTop="8dp" />
+        app:layout_constraintStart_toStartOf="@id/imageButton4"
+        app:layout_constraintTop_toBottomOf="@id/imageButton4" />
 
 
     <ImageButton
         android:id="@+id/imageButton5"
         android:layout_width="150dp"
         android:layout_height="150dp"
+        android:layout_marginTop="16dp"
         android:background="@color/white"
         android:contentDescription="@string/avatar"
         android:scaleType="fitCenter"
         android:src="@drawable/dessert"
-        app:layout_constraintTop_toBottomOf="@id/menuText3"
-        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toStartOf="@id/imageButton6"
-        android:layout_marginTop="16dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/menuText3" />
 
     <ImageButton
         android:id="@+id/imageButton6"
@@ -122,39 +122,52 @@
         android:contentDescription="@string/avatar"
         android:scaleType="fitCenter"
         android:src="@drawable/other"
-        app:layout_constraintTop_toTopOf="@id/imageButton5"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@id/imageButton5"
-        app:layout_constraintEnd_toEndOf="parent" />
+        app:layout_constraintTop_toTopOf="@id/imageButton5" />
 
     <TextView
         android:id="@+id/menuText6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
         android:text="@string/menuText5"
-        app:layout_constraintTop_toBottomOf="@id/imageButton5"
-        app:layout_constraintStart_toStartOf="@id/imageButton5"
         app:layout_constraintEnd_toEndOf="@id/imageButton5"
-        android:layout_marginTop="8dp" />
+        app:layout_constraintStart_toStartOf="@id/imageButton5"
+        app:layout_constraintTop_toBottomOf="@id/imageButton5" />
 
     <TextView
         android:id="@+id/menuText5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
         android:text="@string/menuText6"
-        app:layout_constraintTop_toBottomOf="@id/imageButton6"
-        app:layout_constraintStart_toStartOf="@id/imageButton6"
         app:layout_constraintEnd_toEndOf="@id/imageButton6"
-        android:layout_marginTop="8dp" />
+        app:layout_constraintStart_toStartOf="@id/imageButton6"
+        app:layout_constraintTop_toBottomOf="@id/imageButton6" />
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolbar"
-        android:layout_width="417dp"
-        android:layout_height="42dp"
+        android:layout_width="411dp"
+        android:layout_height="69dp"
         android:background="@color/green"
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/home_page"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="@+id/toolbar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/toolbar"
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

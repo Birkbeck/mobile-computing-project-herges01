@@ -3293,6 +3293,8 @@ int id easeOut 0x7f0800ab
 int id east 0x7f0800ac
 int id edge 0x7f0800ad
 int id editRecipe 0x7f080212
+int id editTextText 0x7f080214
+int id editTextText2 0x7f080215
 int id edit_query 0x7f0800ae
 int id edit_text_id 0x7f0800af
 int id elastic 0x7f0800b0
@@ -3352,6 +3354,7 @@ int id imageButton4 0x7f0800e6
 int id imageButton5 0x7f0800e7
 int id imageButton6 0x7f0800e8
 int id imageView 0x7f0800e9
+int id imageView2 0x7f080216
 int id immediateStop 0x7f0800ea
 int id included 0x7f0800eb
 int id indeterminate 0x7f0800ec
@@ -3547,6 +3550,7 @@ int id snapMargins 0x7f0801a8
 int id south 0x7f0801a9
 int id spacer 0x7f0801aa
 int id special_effects_controller_view_tag 0x7f0801ab
+int id spinner 0x7f080217
 int id spline 0x7f0801ac
 int id split_action_bar 0x7f0801ad
 int id spread 0x7f0801ae
@@ -3591,7 +3595,12 @@ int id textSpacerNoButtons 0x7f0801d4
 int id textSpacerNoTitle 0x7f0801d5
 int id textStart 0x7f0801d6
 int id textTop 0x7f0801d7
+int id textView 0x7f080218
+int id textView2 0x7f080219
 int id textView3 0x7f0801d8
+int id textView5 0x7f08021c
+int id textView6 0x7f08021d
+int id textView7 0x7f08021e
 int id text_input_end_icon 0x7f0801d9
 int id text_input_error_icon 0x7f0801da
 int id text_input_start_icon 0x7f0801db
@@ -3609,6 +3618,7 @@ int id toggle 0x7f0801e6
 int id toolbar 0x7f0801e7
 int id toolbar2 0x7f0801e8
 int id toolbar3 0x7f0801e9
+int id toolbar4 0x7f08021a
 int id top 0x7f0801ea
 int id topPanel 0x7f0801eb
 int id touch_outside 0x7f0801ec
@@ -3763,6 +3773,7 @@ int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
 int layout activity_main 0x7f0b001c
+int layout activity_recipe_addition_page 0x7f0b006f
 int layout activity_recipe_list 0x7f0b001d
 int layout activity_recipe_page 0x7f0b001e
 int layout custom_dialog 0x7f0b001f
@@ -3906,7 +3917,10 @@ int string extended_fab_label 0x7f0f0033
 int string fab_transformation_scrim_behavior 0x7f0f0034
 int string fab_transformation_sheet_behavior 0x7f0f0035
 int string hide_bottom_view_on_scroll_behavior 0x7f0f0036
+int string home_page 0x7f0f00b6
 int string icon_content_description 0x7f0f0037
+int string image_upload 0x7f0f00b4
+int string ingredients 0x7f0f00b2
 int string item_view_role_description 0x7f0f0038
 int string m3_exceed_max_badge_text_suffix 0x7f0f0039
 int string m3_ref_typeface_brand_medium 0x7f0f003a
@@ -4019,7 +4033,11 @@ int string path_password_eye 0x7f0f00a4
 int string path_password_eye_mask_strike_through 0x7f0f00a5
 int string path_password_eye_mask_visible 0x7f0f00a6
 int string path_password_strike_through 0x7f0f00a7
+int string recipe_addition 0x7f0f00b5
+int string recipe_ingredients_input 0x7f0f00b7
 int string recipe_list 0x7f0f00a8
+int string recipe_name 0x7f0f00b3
+int string recipe_name_input 0x7f0f00b8
 int string search_menu_title 0x7f0f00a9
 int string searchbar_scrolling_view_behavior 0x7f0f00aa
 int string searchview_clear_text_content_description 0x7f0f00ab

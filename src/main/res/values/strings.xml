@@ -12,8 +12,12 @@
     <string name="edit_recipe">Edit Recipe</string>
     <string name="delete_recipe">Delete Recipe</string>
     <string name="ingredients">Recipe Ingredients</string>
-
-
+    <string name="recipe_name"> Recipe Name</string>
+    <string name="image_upload"> Upload Recipe Image here</string>
+    <string name="recipe_addition"> Recipe Addition Page</string>
+    <string name="home_page"> Home Page</string>
+    <string name="recipe_name_input"> Enter recipe name</string>
+    <string name="recipe_ingredients_input"> Enter recipe ingredients</string>
 
 
 

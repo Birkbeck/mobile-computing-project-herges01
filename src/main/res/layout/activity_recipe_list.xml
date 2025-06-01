@@ -19,8 +19,8 @@
 
     <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
         android:id="@+id/floatingActionButton"
-        android:layout_width="122dp"
-        android:layout_height="45dp"
+        android:layout_width="120dp"
+        android:layout_height="55dp"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="16dp"
         android:clickable="true"
@@ -33,7 +33,7 @@
         android:id="@+id/toolbar2"
         android:layout_width="409dp"
         android:layout_height="76dp"
-        android:background="?attr/colorPrimary"
+        android:background="@color/green"
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme"
         app:layout_constraintBottom_toTopOf="@+id/list_item"

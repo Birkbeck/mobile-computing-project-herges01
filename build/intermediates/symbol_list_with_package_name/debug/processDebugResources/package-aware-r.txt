@@ -3294,6 +3294,8 @@ id easeOut
 id east
 id edge
 id editRecipe
+id editTextText
+id editTextText2
 id edit_query
 id edit_text_id
 id elastic
@@ -3353,6 +3355,7 @@ id imageButton4
 id imageButton5
 id imageButton6
 id imageView
+id imageView2
 id immediateStop
 id included
 id indeterminate
@@ -3548,6 +3551,7 @@ id snapMargins
 id south
 id spacer
 id special_effects_controller_view_tag
+id spinner
 id spline
 id split_action_bar
 id spread
@@ -3592,7 +3596,12 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id textView2
 id textView3
+id textView5
+id textView6
+id textView7
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3610,6 +3619,7 @@ id toggle
 id toolbar
 id toolbar2
 id toolbar3
+id toolbar4
 id top
 id topPanel
 id touch_outside
@@ -3764,6 +3774,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_recipe_addition_page
 layout activity_recipe_list
 layout activity_recipe_page
 layout custom_dialog
@@ -3907,7 +3918,10 @@ string extended_fab_label
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
+string home_page
 string icon_content_description
+string image_upload
+string ingredients
 string item_view_role_description
 string m3_exceed_max_badge_text_suffix
 string m3_ref_typeface_brand_medium
@@ -4020,7 +4034,11 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string recipe_addition
+string recipe_ingredients_input
 string recipe_list
+string recipe_name
+string recipe_name_input
 string search_menu_title
 string searchbar_scrolling_view_behavior
 string searchview_clear_text_content_description
