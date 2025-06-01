@@ -28,6 +28,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyApplication" >
         <activity
+            android:name="co.uk.bbk.myapplication.RecipePageActivity"
+            android:exported="true" />
+        <activity
+            android:name="co.uk.bbk.myapplication.RecipeListActivity"
+            android:exported="true" />
+        <activity
             android:name="co.uk.bbk.myapplication.MainActivity"
             android:exported="true" >
             <intent-filter>

@@ -1,5 +1,6 @@
 package co.uk.bbk.myapplication
 
+import android.content.Intent
 import android.os.Bundle
 import android.widget.ArrayAdapter
 import android.widget.ListView
@@ -7,6 +8,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import co.uk.bbk.myapplication.MainActivity
 
 class RecipeListActivity : AppCompatActivity() {
 
@@ -26,5 +28,10 @@ class RecipeListActivity : AppCompatActivity() {
 
         val listAdapter = ArrayAdapter(this, R.layout.item_list, R.id.item_text, listItems)
         list.adapter = listAdapter
+
+        list.setOnItemClickListener { _, _, position, _ ->
+            val intent = Intent(this@RecipeListActivity, RecipePageActivity::class.java)
+            startActivity(intent)
+        }
     }
 }

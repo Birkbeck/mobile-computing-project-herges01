@@ -1,94 +1,122 @@
 [
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/drawable_dinner.png.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/drawable/dinner.png"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\drawable_recipeexample.png.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\drawable\\recipeexample.png"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\drawable_other.png.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\drawable\\other.png"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/drawable_lunch.png.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/drawable/lunch.png"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\drawable_breakfast.png.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\drawable\\breakfast.png"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\layout_activity_recipe_list.xml.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\layout\\activity_recipe_list.xml"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/drawable_breakfast.png.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/drawable/breakfast.png"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/drawable_other.png.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/drawable/other.png"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\drawable_more_vert_24dp_e3e3e3.png.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\drawable\\more_vert_24dp_e3e3e3.png"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/layout_activity_main.xml.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/layout/activity_main.xml"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\layout\\activity_main.xml"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/xml_backup_rules.xml.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/xml/backup_rules.xml"
+        "merged": "co.uk.bbk.myapplication-debug-33:/layout_activity_recipe_page.xml.flat",
+        "source": "co.uk.bbk.myapplication-main-35:/layout/activity_recipe_page.xml"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\layout_item_list.xml.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\layout\\item_list.xml"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\drawable_dinner.png.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\drawable\\dinner.png"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/drawable_dessert.png.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/drawable/dessert.png"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/drawable_ic_launcher_background.xml.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\menu_recipe_settings.xml.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\menu\\recipe_settings.xml"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/drawable_brunch.png.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/drawable/brunch.png"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "co.uk.bbk.myapplication-debug-33:/xml_data_extraction_rules.xml.flat",
-        "source": "co.uk.bbk.myapplication-main-35:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\drawable_lunch.png.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\drawable\\lunch.png"
+    },
+    {
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\drawable_brunch.png.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\drawable\\brunch.png"
+    },
+    {
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\drawable_dessert.png.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\drawable\\dessert.png"
+    },
+    {
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\layout_activity_recipe_page.xml.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\layout\\activity_recipe_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danny\\.gradle\\daemon\\8.11.1\\co.uk.bbk.myapplication-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
     }
 ]

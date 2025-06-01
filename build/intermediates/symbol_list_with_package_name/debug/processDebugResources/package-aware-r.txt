@@ -3061,6 +3061,7 @@ drawable material_ic_keyboard_arrow_previous_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
+drawable more_vert_24dp_e3e3e3
 drawable mtrl_bottomsheet_drag_handle
 drawable mtrl_checkbox_button
 drawable mtrl_checkbox_button_checked_unchecked
@@ -3113,6 +3114,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable other
+drawable recipeexample
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3261,6 +3263,7 @@ id decelerate
 id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
+id deleteRecipe
 id deltaRelative
 id dependency_ordering
 id design_bottom_sheet
@@ -3290,6 +3293,7 @@ id easeInOut
 id easeOut
 id east
 id edge
+id editRecipe
 id edit_query
 id edit_text_id
 id elastic
@@ -3315,6 +3319,7 @@ id fitXY
 id fixed
 id flip
 id floating
+id floatingActionButton
 id forever
 id fragment_container_view_tag
 id frost
@@ -3347,6 +3352,7 @@ id imageButton3
 id imageButton4
 id imageButton5
 id imageButton6
+id imageView
 id immediateStop
 id included
 id indeterminate
@@ -3354,6 +3360,7 @@ id info
 id invisible
 id inward
 id italic
+id item_text
 id item_touch_helper_previous_elevation
 id jumpToEnd
 id jumpToStart
@@ -3394,6 +3401,7 @@ id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
 id matrix
+id menuButton
 id menuText1
 id menuText2
 id menuText3
@@ -3584,6 +3592,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView3
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3599,6 +3608,8 @@ id titleDividerNoCustom
 id title_template
 id toggle
 id toolbar
+id toolbar2
+id toolbar3
 id top
 id topPanel
 id touch_outside
@@ -3753,6 +3764,8 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_recipe_list
+layout activity_recipe_page
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -3771,6 +3784,7 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
+layout item_list
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3832,6 +3846,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+menu recipe_settings
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -3883,9 +3898,12 @@ string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
 string clear_text_end_icon_content_description
+string delete_recipe
+string edit_recipe
 string error_a11y_label
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
+string extended_fab_label
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
@@ -4002,6 +4020,7 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string recipe_list
 string search_menu_title
 string searchbar_scrolling_view_behavior
 string searchview_clear_text_content_description

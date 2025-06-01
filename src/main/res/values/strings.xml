@@ -9,6 +9,12 @@
     <string name="avatar">avatar</string>
     <string name="extended_fab_label">+ Add recipe</string>
     <string name="recipe_list">Recipe List</string>
+    <string name="edit_recipe">Edit Recipe</string>
+    <string name="delete_recipe">Delete Recipe</string>
+    <string name="ingredients">Recipe Ingredients</string>
+
+
+
 
 
 </resources>
