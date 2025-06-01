@@ -7,7 +7,8 @@
     <string name="menuText5">Dessert</string>
     <string name="menuText6">Other</string>
     <string name="avatar">avatar</string>
-
+    <string name="extended_fab_label">+ Add recipe</string>
+    <string name="recipe_list">Recipe List</string>
 
 
 </resources>
