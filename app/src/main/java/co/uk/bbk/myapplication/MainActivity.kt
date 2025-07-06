@@ -10,13 +10,12 @@ import androidx.core.view.WindowInsetsCompat
 
 class MainActivity : AppCompatActivity() {
 
-    private lateinit var buttonBreakfast : ImageButton
-    private lateinit var buttonBrunch : ImageButton
-    private lateinit var buttonLunch : ImageButton
-    private lateinit var buttonDinner : ImageButton
-    private lateinit var buttonDessert : ImageButton
-    private lateinit var buttonOther:  ImageButton
-
+    private lateinit var buttonBreakfast: ImageButton
+    private lateinit var buttonBrunch: ImageButton
+    private lateinit var buttonLunch: ImageButton
+    private lateinit var buttonDinner: ImageButton
+    private lateinit var buttonDessert: ImageButton
+    private lateinit var buttonOther: ImageButton
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -59,10 +58,9 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
         buttonOther.setOnClickListener {
-            val intent = Intent(this@MainActivity, RecipeListActivity::class.java)
+            val intent = Intent(this@MainActivity, RecipeTestPage::class.java)
             startActivity(intent)
         }
-
 
 
     }

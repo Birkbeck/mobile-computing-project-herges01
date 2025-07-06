@@ -58,7 +58,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
         buttonOther.setOnClickListener {
-            val intent = Intent(this@MainActivity, RecipeListActivity::class.java)
+            val intent = Intent(this@MainActivity, RecipeTestPage::class.java)
             startActivity(intent)
         }
 

@@ -1,0 +1,6 @@
+co.uk.bbk.myapplication.test-core-1.6.1-0 C:\Users\danny\.gradle\caches\8.11.1\transforms\b2a233f6a4f09bb9999042332d3a8b50\transformed\core-1.6.1\res
+co.uk.bbk.myapplication.test-tracing-1.2.0-1 C:\Users\danny\.gradle\caches\8.11.1\transforms\de6ee97b55c72d2fe980074fbe1bcd1a\transformed\tracing-1.2.0\res
+co.uk.bbk.myapplication.test-androidTest-2 C:\Users\danny\AndroidStudioProjects\mobile-computing-project-herges01\build\generated\res\resValues\androidTest\debug
+co.uk.bbk.myapplication.test-mergeDebugAndroidTestResources-3 C:\Users\danny\AndroidStudioProjects\mobile-computing-project-herges01\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+co.uk.bbk.myapplication.test-mergeDebugAndroidTestResources-4 C:\Users\danny\AndroidStudioProjects\mobile-computing-project-herges01\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+co.uk.bbk.myapplication.test-debugAndroidTest-5 C:\Users\danny\AndroidStudioProjects\mobile-computing-project-herges01\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

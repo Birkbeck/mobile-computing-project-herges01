@@ -1,0 +1,3 @@
+co.uk.bbk.myapplication.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
