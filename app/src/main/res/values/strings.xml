@@ -18,7 +18,23 @@
     <string name="home_page"> Home Page</string>
     <string name="recipe_name_input"> Enter recipe name</string>
     <string name="recipe_ingredients_input"> Enter recipe ingredients</string>
-
-
-    <string-array name="categories">categories</string-array>
+    <string name="menu">Menu</string>
+    <string-array name="categories">
+        <item>Breakfast</item>
+        <item>Brunch</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Dessert</item>
+        <item>Other</item>
+    </string-array>
+    <string name="rta_title">Recipes</string>
+    <string name="rta_add">Add Recipe</string>
+    <string name="rd_select">Select Image</string>
+    <string name="rd_ingredient">Ingredients (comma-separated) </string>
+    <string name="rd_title">Recipe Title</string>
+    <string name="arp_category">Category</string>
+    <string name="arp_recipe_image">Recipe Image</string>
+    <string name="arp_recipe_name">Recipe Name</string>
+    <string name="arp_ingredients">Ingredients here</string>
+    <string name="arp_menu_button">Menu Button</string>
 </resources>

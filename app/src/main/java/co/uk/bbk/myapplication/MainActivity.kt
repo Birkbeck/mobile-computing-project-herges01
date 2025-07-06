@@ -38,27 +38,27 @@ class MainActivity : AppCompatActivity() {
 
 
         buttonBreakfast.setOnClickListener {
-            val intent = Intent(this@MainActivity, RecipeListActivity::class.java)
+            val intent = Intent(this@MainActivity, RecipeListPage::class.java)
             startActivity(intent)
         }
         buttonBrunch.setOnClickListener {
-            val intent = Intent(this@MainActivity, RecipeListActivity::class.java)
+            val intent = Intent(this@MainActivity, RecipeListPage::class.java)
             startActivity(intent)
         }
         buttonLunch.setOnClickListener {
-            val intent = Intent(this@MainActivity, RecipeListActivity::class.java)
+            val intent = Intent(this@MainActivity, RecipeListPage::class.java)
             startActivity(intent)
         }
         buttonDinner.setOnClickListener {
-            val intent = Intent(this@MainActivity, RecipeListActivity::class.java)
+            val intent = Intent(this@MainActivity, RecipeListPage::class.java)
             startActivity(intent)
         }
         buttonDessert.setOnClickListener {
-            val intent = Intent(this@MainActivity, RecipeListActivity::class.java)
+            val intent = Intent(this@MainActivity, RecipeListPage::class.java)
             startActivity(intent)
         }
         buttonOther.setOnClickListener {
-            val intent = Intent(this@MainActivity, RecipeTestPage::class.java)
+            val intent = Intent(this@MainActivity, RecipeListPage::class.java)
             startActivity(intent)
         }
 

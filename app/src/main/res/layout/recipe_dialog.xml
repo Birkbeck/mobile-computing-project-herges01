@@ -15,23 +15,44 @@
             android:id="@+id/titleEditText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Recipe Title"
+            android:hint="@string/rd_title"
             android:inputType="text" />
 
         <Spinner
             android:id="@+id/categorySpinner"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:spinnerMode="dropdown"
+            android:prompt="@string/recipe_name" />
+
 
         <EditText
             android:id="@+id/ingredientEditText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Ingredients (comma-separated)"
+            android:hint="@string/rd_ingredient"
             android:inputType="textMultiLine" />
+
+        <ImageView
+            android:id="@+id/recipeImageView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginBottom="8dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_placeholder_image" />
+
+        <Button
+            android:id="@+id/selectImageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="rd_select_image"
+            android:color="@color/green"
+            android:layout_marginBottom="8dp" />
+
 
         <Button
             android:id="@+id/saveButton"
+            android:color="@color/green"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Save" />

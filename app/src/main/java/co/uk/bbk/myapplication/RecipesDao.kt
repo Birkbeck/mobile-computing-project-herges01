@@ -12,6 +12,9 @@ interface RecipesDao {
     @Query("SELECT * FROM Recipes")
     suspend fun getAllRecipes(): List<Recipe>
 
+    @Query("SELECT * FROM recipes WHERE category = :categoryName")
+    suspend fun getRecipesByCategory(categoryName: String): List<Recipe>
+
     @Insert
     suspend fun insertRecipe(recipe: Recipe)
 

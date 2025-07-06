@@ -37,10 +37,30 @@ class RecipeAdapter(
             binding.recipe = recipe
             binding.executePendingBindings()
 
-            // Handle item click
+            // allows items to be clickable
             binding.root.setOnClickListener {
-                onClick(recipe)  // Just call the lambda
+                onClick(recipe)
+            }
+
+            //for the menu button
+            binding.menuButton.setOnClickListener { view ->
+                val popupMenu = PopupMenu(view.context, view)
+                popupMenu.menuInflater.inflate(R.menu.recipe_settings, popupMenu.menu)
+                popupMenu.setOnMenuItemClickListener { menuItem ->
+                    when (menuItem.itemId) {
+                        R.id.editRecipe -> {
+                            onEdit(recipe)
+                            true
+                        }
+                        R.id.deleteRecipe -> {
+                            onDelete(recipe)
+                            true
+                        }
+                        else -> false
+                    }
+                }
+                popupMenu.show()
             }
         }
+        }
     }
-}

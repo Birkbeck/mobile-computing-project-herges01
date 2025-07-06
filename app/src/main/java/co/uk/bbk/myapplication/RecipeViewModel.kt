@@ -18,8 +18,16 @@ class RecipeViewModel : ViewModel() {
         viewModelScope.launch {
             recipesDao?.let {
                 val allRecipes = it.getAllRecipes()
-                Log.i("BBK", allRecipes.toString())
                 _recipes.value = allRecipes
+            }
+        }
+    }
+    // updates the data in the view model by category
+    fun readRecipesByCategory(category: String) {
+        viewModelScope.launch {
+            recipesDao?.let {
+                val filtered = it.getRecipesByCategory(category)
+                _recipes.value = filtered
             }
         }
     }
