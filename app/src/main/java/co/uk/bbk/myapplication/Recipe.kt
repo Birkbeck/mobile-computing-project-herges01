@@ -10,5 +10,6 @@ data class Recipe(
     val id: Long = 0,
     val title: String,
     val category: String,
-    val ingredient: String
+    val ingredient: String,
+    val image: String? = null
 ): Serializable

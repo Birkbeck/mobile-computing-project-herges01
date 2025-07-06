@@ -20,5 +20,5 @@
     <string name="recipe_ingredients_input"> Enter recipe ingredients</string>
 
 
-
+    <string-array name="categories">categories</string-array>
 </resources>
